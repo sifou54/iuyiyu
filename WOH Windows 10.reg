@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00 MADE BY RETCH
+
+Made by Retch ( RMTweaks discord server/tiktok)
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"IRQ***Priority"=dword:00000001
+"IRQ***Priority"=dword:00000002
+
+
